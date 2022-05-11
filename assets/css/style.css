@@ -465,6 +465,7 @@ main {
   border-radius: 12px 12px 0 0;
   box-shadow: var(--shadow-2);
   z-index: 5;
+  opacity: 0;
 }
 
 .navbar-list {
@@ -1714,6 +1715,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     border-radius: 0 20px;
     padding: 0 20px;
     box-shadow: none;
+	opacity: 1;
   }
 
   .navbar-list {
