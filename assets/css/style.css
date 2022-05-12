@@ -1742,7 +1742,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* clients */
 
-.clients-item { min-width: 70px; width: 70px;scroll-snap-align: start;}
+.clients-item { min-width: 55px; width: 55px;scroll-snap-align: start;}
 
 
 
