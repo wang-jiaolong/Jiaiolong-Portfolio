@@ -727,7 +727,7 @@ main {
  * #clients 
  */
 
-.clients { margin-bottom: 15px; }
+.clients { margin-bottom: 40px; }
 
 .clients-list {
   display: flex;
@@ -1481,7 +1481,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .clients-list {
     gap: 25px;
     margin: 0 -30px;
-    padding: 45px;
+    padding: 10px 45px;
     scroll-padding-inline: 45px;
   }
 
