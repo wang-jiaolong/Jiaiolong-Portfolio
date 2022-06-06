@@ -1480,8 +1480,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .clients-list {
     gap: 25px;
-    margin: 0 -30px;
-    padding: 10px 45px;
+/*    margin: 0 -30px;
+    padding: 10px 45px; */
     scroll-padding-inline: 45px;
   }
 
